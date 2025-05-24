@@ -5,7 +5,7 @@ let serviceProviders = []
 
 // Fetch data using Fetch API
 window.addEventListener('DOMContentLoaded', () => {
-    fetch('http://localhost:5000/companies')
+    fetch('http://localhost:5000/')
         .then(response => {
             if (!response.ok) throw new Error("Network response was not ok");
             return response.json();

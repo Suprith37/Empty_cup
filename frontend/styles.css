@@ -73,20 +73,13 @@ fonts */
 }
 
 
-/* .header{
+.header{
     height: 5rem;
     /* display: flex; */
     /* align-items: center; */
     /* justify-content: center; */
-/* } */
+}
 
-
-/* .header-content{ */
-
-    /* border:2px solid red; */
-/*     position : relative;
-    top: 25%; */
-/* } */ 
 
 .nav-bar{
     font:700;

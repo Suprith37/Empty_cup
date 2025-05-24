@@ -13,7 +13,7 @@ client = MongoClient(mongo_uri)
 db = client["emptyCup"]
 collection = db["companies"]
 
-@app.route("/companies", methods=["GET"])
+@app.route("/", methods=["GET"])
 def get_companies():
     companies = list(collection.find({}, {"_id": 0}))
     return jsonify(companies)

@@ -27,6 +27,10 @@ collection = db["collection_name"]
 
 in app.py file in backend
 
+In script.js file in frontend
+- replace this line of code fetch('https://empty-cup-6y0t.onrender.com') with fetch('http://localhost:5000/') science you are using mongoDB as locally
+        
+
 to run locally 
 Make sure you are using mongo db as a database 
 
@@ -34,10 +38,11 @@ Make sure you are using mongo db as a database
 Depolyment 
 
 Frontend 
+For frontend deployment i used vercel
 website Live! at ( Used vercel ) :  https://empty-cup-qa7p.vercel.app/
 
 Backend 
-deployed using Render 
+deployed backend code using Render 
 
 Genereated Api for data : https://empty-cup-6y0t.onrender.com
 

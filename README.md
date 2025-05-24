@@ -30,3 +30,14 @@ in app.py file in backend
 to run locally 
 Make sure you are using mongo db as a database 
 
+
+Depolyment 
+
+Frontend 
+website Live! at ( Used vercel ) :  https://empty-cup-qa7p.vercel.app/
+
+Backend 
+deployed using Render 
+
+Genereated Api for data : https://empty-cup-6y0t.onrender.com
+

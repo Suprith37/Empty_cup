@@ -1,5 +1,7 @@
 Hai This is Suprith 
 
+Note : Since I have Deployed publically it will take some time to load data please co-operate
+
 Below are the instruction to run project locally
 
 1 -> Backend
